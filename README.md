@@ -5,4 +5,5 @@ Repository for academic and personal work by Matt Dunman, continuously updated w
 - Personal work in sports analytics in progress.
 
 Any team projects are noted with credit given where due.
+
 Confidential / proprietary information in any data or code has been removed.
